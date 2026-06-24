@@ -1,16 +1,31 @@
-## Hi there 👋
+# Ali Ahmed
 
-<!--
-**AliAhmedSheikh/AliAhmedSheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student | Software Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I build software that solves practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work includes desktop applications, database systems, automation tools, and AI-powered projects. I enjoy taking ideas from concept to working solutions while continuously learning new technologies.
+
+### Currently
+
+- Final-Year Computer Science Student
+- Learning Artificial Intelligence & Machine Learning
+- Building software projects with real-world applications
+
+### Skills
+
+C# • Python • SQL • Oracle • .NET • Git • AI/ML
+
+### What You'll Find Here
+
+- Software Development Projects
+- AI & Machine Learning Experiments
+- Academic & Personal Projects
+- Problem-Solving Solutions
+
+### Goal
+
+To contribute to meaningful software products while growing into a skilled software engineer and AI developer.
+
+---
+*"Building solutions, not just writing code."*
