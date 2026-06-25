@@ -1,16 +1,14 @@
 # Hey there! 👋
 
-I'm Ali Ahmed, a software engineer focused on AI, automation, and SaaS development.
+- I'm Ali Ahmed, a software engineer focused on AI, automation, and SaaS development.
+  
+- My work includes AI applications, automation systems, data pipelines, desktop software, and scalable SaaS platforms.
 
-I build software that solves practical problems.
+- If an idea can improve a process or solve a real-world problem, I'm interested in building it.
 
-My work includes AI applications, automation systems, data pipelines, desktop software, and scalable SaaS platforms.
+- My main tech stack is Python, C#, .NET, SQL, and AI/ML technologies.
 
-If an idea can improve a process or solve a real-world problem, I'm interested in building it.
-
-My main tech stack is Python, C#, .NET, SQL, and AI/ML technologies.
-
-I've built multiple projects ranging from business management systems to AI-powered applications and automation tools.
+- I've built multiple projects ranging from business management systems to AI-powered applications and automation tools.
 
 ## Current Focus
 
